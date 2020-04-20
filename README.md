@@ -1,6 +1,6 @@
 # Log In
 
-![image](https://github.com/Rubyrubylai/Log-In/blob/master/Login.PNG)
+![image](https://github.com/Rubyrubylai/Log-In-V2/blob/master/Login_v2.PNG)
 
 ## Installation
 **Prerequisties**
@@ -12,7 +12,7 @@
  
 Clone this repository to your local machine 
 ```
-$ git clone https://github.com/Rubyrubylai/Log-In.git
+$ git clone https://github.com/Rubyrubylai/Log-In-V2.git
 ```
 
 **Setup**
